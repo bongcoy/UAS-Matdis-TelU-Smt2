@@ -8,6 +8,7 @@ created by Muhammad Pascal Dewantara, Informatika'20 Telkom University
 '''
 
 """COBA Gua ubah ya ini"""
+"""Bentar ini yang ketiga """
 
 def konversi_kali(x,basis_x):
     '''
