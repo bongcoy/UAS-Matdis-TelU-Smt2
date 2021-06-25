@@ -7,7 +7,7 @@ jadi yang tertampil adalah angka 10 - 16 bukan A - G
 created by Muhammad Pascal Dewantara, Informatika'20 Telkom University
 '''
 
-"""COBA DOANG"""
+"""COBA Gua ubah ya ini"""
 
 def konversi_kali(x,basis_x):
     '''
