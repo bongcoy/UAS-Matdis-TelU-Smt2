@@ -7,6 +7,8 @@ jadi yang tertampil adalah angka 10 - 16 bukan A - G
 created by Muhammad Pascal Dewantara, Informatika'20 Telkom University
 '''
 
+"""COBA DOANG"""
+
 def konversi_kali(x,basis_x):
     '''
     konversi x to desi
