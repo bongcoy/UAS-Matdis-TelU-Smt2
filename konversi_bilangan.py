@@ -74,7 +74,8 @@ def konversi_sisa(desimal,basis_y):
 
     for i in lis[::-1]:
         print(i,end="")
-            
+    print()
+    
 def tanya_input():
     mau = input('Mau kali atau sisa ? \n\nkalo dari x ke desimal, maka ketik "kali"\nkalo dari desimal ke y, maka ketik "sisa"\n\nMaunya ')
     if mau == "sisa":
