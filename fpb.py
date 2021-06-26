@@ -1,4 +1,5 @@
 def fpb():
+    print("masukkin bilangan yang mau diitung si fpb nya dipisah dengan spasi\n")
     arr = [int(i) for i in input().split()]
     arr.sort()
     for i in range(1,arr[0]+1):
