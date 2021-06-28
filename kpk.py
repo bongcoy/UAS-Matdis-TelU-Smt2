@@ -1,3 +1,4 @@
+print("Ketik 'kpk.kpk()'")
 def kpk():
     print("masukkin bilangan yang mau diitung si kpk nya dipisah pake spasi okee\n")
 
