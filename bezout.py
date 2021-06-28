@@ -22,5 +22,6 @@ def bezout(a, b, x = 0, prev_x = 1, y = 1, prev_y = 0):
 	prev_x, prev_y, x, y = x, y, quotient*x + prev_x, quotient*y + prev_y
 	return bezout(b, remainder, x, prev_x, y, prev_y)
 def bez(a,b):
-	print(f"*note : x adalah koef bilangan yang lebih besar\nFormat Jawaban : (FPB, x, y)")
+	print("*note : x adalah koef bilangan yang lebih besar, dengan format s.x - t.y = FPB")
+	print(f"Format Jawaban : (FPB, x, y)")
 	print(bezout(a, b, x, prev_x, y, prev_y))
