@@ -1,5 +1,7 @@
 # fungsi untuk mencari faktorisasi prima sebuah bilangan
 '''credit to https://adityarizki.net/belajar-python-faktorisasi-prima-sebuah-bilangan/'''
+
+print("Ketik 'faktorprima.fprima(x)'")
 def faktorisasiprima(x):
     # keluaran variabel factorlist berupa array
     factorlist=[]
