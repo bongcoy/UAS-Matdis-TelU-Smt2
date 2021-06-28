@@ -6,5 +6,5 @@ CLO 4 :
 - KPK
 - Konversi
 - Faktorisasi Prima
-- s.x + t.y
+- Es Teh ( yang s.x + t.y )
 - Ekui ( yang ax = b (mod m) )
