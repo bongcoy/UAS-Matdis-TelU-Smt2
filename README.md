@@ -7,4 +7,4 @@ CLO 4 :
 - Konversi
 - Faktorisasi Prima
 - s.x + t.y
-- ax = b (mod m)
+- Ekui ( yang ax = b (mod m) )
