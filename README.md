@@ -6,5 +6,5 @@ CLO 4 :
 - KPK
 - Konversi
 - Faktorisasi Prima
-- Es Teh ( yang s.x + t.y )
+- Bezout lemma a.k.a Es Teh ( yang s.x + t.y ), credit to : https://github.com/BaReinhard/Hacktoberfest-Mathematics/blob/master/algebra/bezout/python/bezout.py
 - Ekui ( yang ax = b (mod m) )
