@@ -13,5 +13,5 @@ def faktorisasiprima(x):
             loop+=1
     return factorlist
 
-def run(x):
+def fprima(x):
     print(faktorisasiprima(x))
