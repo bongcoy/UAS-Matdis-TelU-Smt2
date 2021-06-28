@@ -1,3 +1,5 @@
+"Credit to : https://github.com/BaReinhard/Hacktoberfest-Mathematics/blob/master/algebra/bezout/python/bezout.py"
+
 print("Ketik 'bezout.bezout(a,b)'")
 def bezout(a, b, x = 0, prev_x = 1, y = 1, prev_y = 0):
 	""" Calculate the Bézout's identity of 'a' and 'b' recursively
