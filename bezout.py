@@ -24,4 +24,4 @@ def bezout(a, b, x = 0, prev_x = 1, y = 1, prev_y = 0):
 def bez(a,b):
 	print("*note : x adalah koef bilangan yang lebih besar, dengan format s.x - t.y = FPB")
 	print("Format Jawaban : (FPB, x, y)")
-	print(bezout(a, b, x, prev_x, y, prev_y))
+	print(bezout(a, b))
