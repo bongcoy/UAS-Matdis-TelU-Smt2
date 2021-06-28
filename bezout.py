@@ -15,8 +15,8 @@ def bezout(a, b, x = 0, prev_x = 1, y = 1, prev_y = 0):
 
 	# if remainder is 0, stop here : gcd found
 	if remainder == 0:
-		tes = f"\n*note : x adalah koefisien bilangan yg lebih kecil\nFPB = {b}, x = {x}, y = {y}"
-		return b, x, y, tes
+		pengen_ngeprint_ini_sad = f"\n*note : x adalah koefisien bilangan yg lebih kecil\nFPB = {b}, x = {x}, y = {y}"
+		return b, x, y
 	
 	# else, update x and y, and continue
 	quotient = a // b
