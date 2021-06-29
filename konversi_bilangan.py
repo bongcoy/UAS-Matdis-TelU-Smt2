@@ -6,7 +6,7 @@ created by Muhammad Pascal Dewantara, Informatika'20 Telkom University
 edited by Bagus Hariyadi 
 p.s tinggal di testing ae bismillah kaga ada yang salah
 '''
-
+print("Ketik 'konversi_bilangan.tanya_input()'")
 def konversi_kali(x,basis_x):
     '''
     konversi x to desi
@@ -91,5 +91,3 @@ def tanya_input():
             bil = input("masukkin aja apa yang mau dikonversinya: ")
             bil = bil.upper()
             konversi_kali(bil,basis_bil)    
-
-tanya_input()
